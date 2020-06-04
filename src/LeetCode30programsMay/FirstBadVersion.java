@@ -1,4 +1,4 @@
-package LeetCode30programsJune;
+package LeetCode30programsMay;
 /**
  * 
  * Day 2
