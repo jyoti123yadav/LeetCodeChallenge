@@ -1,6 +1,4 @@
-
-
- //Definition for a binary tree node.
+package LeetCode30programsMay;
 /**
  * 
  * Day 1
@@ -8,6 +6,7 @@
  * @author jyotiyadav
  *
  */
+
 
  public class TreeNode {
  int val;
